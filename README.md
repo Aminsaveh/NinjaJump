@@ -17,5 +17,5 @@
 # Final Result 
 
 <p align="center">
- <video src='/preview.mov' />
+ <video src='/preview.mp4' />
 </p>
