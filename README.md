@@ -17,5 +17,5 @@
 # Final Result 
 
 <p align="center">
-  <img src="preview.mov" alt="animated" />
+  ![](preview.mov)
 </p>
