@@ -21,6 +21,5 @@
 
 # Final Result 
 
-<p align="center">
- <video src='/preview.mp4' />
-</p>
+https://github.com/Aminsaveh/NinjaJump/assets/71345466/25ebb550-c269-4923-b73b-6adbba8d7b87
+
